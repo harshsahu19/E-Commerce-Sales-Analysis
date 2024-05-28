@@ -6,6 +6,7 @@ Sales by Product Category: Grouping sales data by product categories to determin
 Yearly Sales Trends: Analyzing sales data by years to identify seasonal trends and yearly performance
 Build a Dashboard in excel by analysing the data set.
 
-![image](https://github.com/harshsahu19/E-Commerce-Sales-Analysis/assets/149066233/35fe61b0-9b70-440f-abef-139c0735cf6b)
+![image](https://github.com/harshsahu19/E-Commerce-Sales-Analysis/assets/149066233/a3b9f207-5c7c-42ed-9e60-97add21d0234)
+
 https://docs.google.com/spreadsheets/d/1Cvujl8UcpgLsP8Pcn4xgqvrHB6iqDkZj/edit?usp=drive_link&ouid=105174760992647575727&rtpof=true&sd=true
 Dashboard sheet link
