@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis
+# E-Commerce-Store-Analysis
 Have a Brazilian e-commerce store data over the 3 years period of time .I visualize the data and complete a analysis by using the MySQL server to complete this analysis.
 Total Sales Calculation: Summing up the total sales revenue over a specific period to understand overall performance.
 Customer Purchase Patterns: Analyzing customer behavior, including the number of orders and total spending, to identify loyal and high-value customers
